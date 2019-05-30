@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153842674303",
+    "firebase_url": "https://kimlikdogrulama-94bb0.firebaseio.com",
+    "project_id": "kimlikdogrulama-94bb0",
+    "storage_bucket": "kimlikdogrulama-94bb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153842674303:android:4f06249e22fb335c",
+        "android_client_info": {
+          "package_name": "com.example.hulus.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153842674303-v4guin6co051avscjns8vt2fl5aml8g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8FLsbAKI4lcH03iBQ8aU2QOw9IX8Qfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153842674303-v4guin6co051avscjns8vt2fl5aml8g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
