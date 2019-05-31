@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "153842674303-8jc80t8vqotbgp7594b1agonfkleg4be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hulus.chatapp",
+            "certificate_hash": "6ef311cf989be5e07696054d8dde3ecdb30ccbc6"
+          }
+        },
+        {
           "client_id": "153842674303-v4guin6co051avscjns8vt2fl5aml8g1.apps.googleusercontent.com",
           "client_type": 3
         }
