@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Toolbar
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:id="@+id/toolbar"
-    android:background="@color/colorPrimaryDark">
+    android:background="@color/design_default_color_primary_dark"
+    >
 
-</Toolbar>
+</android.support.v7.widget.Toolbar>

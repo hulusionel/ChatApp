@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "153842674303",
-    "firebase_url": "https://kimlikdogrulama-94bb0.firebaseio.com",
-    "project_id": "kimlikdogrulama-94bb0",
-    "storage_bucket": "kimlikdogrulama-94bb0.appspot.com"
+    "project_number": "674973487616",
+    "firebase_url": "https://chatapp-7677d.firebaseio.com",
+    "project_id": "chatapp-7677d",
+    "storage_bucket": "chatapp-7677d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:153842674303:android:4f06249e22fb335c",
+        "mobilesdk_app_id": "1:674973487616:android:ce2dd2ceab0459df",
         "android_client_info": {
-          "package_name": "com.example.hulus.chatapp"
+          "package_name": "com.example.chatapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "153842674303-8jc80t8vqotbgp7594b1agonfkleg4be.apps.googleusercontent.com",
+          "client_id": "674973487616-o9dvu5f59glhtbt5omenj440844svg21.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.hulus.chatapp",
-            "certificate_hash": "6ef311cf989be5e07696054d8dde3ecdb30ccbc6"
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "271f78f3bc36834a0aef1ea7d376190564e0f18c"
           }
         },
         {
-          "client_id": "153842674303-v4guin6co051avscjns8vt2fl5aml8g1.apps.googleusercontent.com",
+          "client_id": "674973487616-o7pouda9so2kr2u7n36mqjs6ns167j2c.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCI8FLsbAKI4lcH03iBQ8aU2QOw9IX8Qfs"
+          "current_key": "AIzaSyAobmfjxIMMyQUEFpvvpMFGtkWiiENlC6I"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "153842674303-v4guin6co051avscjns8vt2fl5aml8g1.apps.googleusercontent.com",
+              "client_id": "674973487616-o7pouda9so2kr2u7n36mqjs6ns167j2c.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
