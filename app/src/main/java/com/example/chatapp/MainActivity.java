@@ -42,12 +42,14 @@ public class MainActivity extends AppCompatActivity {
              //   Intent intent=new Intent(MainActivity.this,LoginActivity.class);
                // startActivity(intent);
                 startActivity(new Intent(MainActivity.this,LoginActivity.class));
+                //finish();
             }
         });
         register.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(MainActivity.this,RegisterActivity.class));
+                //finish();
             }
         });
     }
