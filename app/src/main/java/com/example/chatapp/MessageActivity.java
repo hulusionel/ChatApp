@@ -123,6 +123,10 @@ public class MessageActivity extends AppCompatActivity {
         hashMap.put("receiver",receiver);
         hashMap.put("message",message);
         reference.child("Chats").push().setValue(hashMap);
+
+        //DatabaseReference chatRef=FirebaseDatabase.getInstance().getReference("ChatsList")
+             //   .child(fuser.getUid())
+             //   .child(userid);
     }
 
     private void readMessage(final String myid, final String userid, final String imageurl){
